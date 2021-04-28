@@ -16,7 +16,13 @@ MONTADO CON:
 
 El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un juego del profesor (enlace)
 
+-TERMINAL(QUE SE ENCUENTRAN EN )
 
+![]()
+
+![]()
+
+![]()
 
 Hubo problemas para ejecutarlo. Para ejecutarlo tuve que hacer:
 
