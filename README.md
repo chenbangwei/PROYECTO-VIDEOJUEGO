@@ -16,7 +16,9 @@ MONTADO CON:
 
 El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un juego del profesor (enlace)
 
--TERMINAL(QUE SE ENCUENTRAN EN )
+-TERMINAL Para abrir el terminal en ubuntu
+
+- He dado a la tecla inicio y escribo terminal. También es posible pulsando Ctrl + Alt + T.
 
 //FIN
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-28%2012-58-19.png)
