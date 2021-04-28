@@ -1,7 +1,7 @@
 # PROYECTO-VIDEOJUEGO
 
 * Descripción
-Python:
+Python:ÉS un llenguatge de programació compost de diverses tipus de programes conjuntes
 
 ## Parte de arduino
 
@@ -31,12 +31,10 @@ El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un
 
 Hubo problemas para ejecutarlo. Para ejecutarlo tuve que hacer:
 
-adfqwefr
-qwerfqwer
-qwgft
-qwet
-SOLDADURA-Y-DISENO 
-qwegt
+-primero hemos comprobado con el terminal si estaba descargado 
+
+-pip(instalar biblioteca de conocimiento python)
+
 
 
 # [FICHA TÉCNICA](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/FICHA%20T%C3%89CNICA.md)
