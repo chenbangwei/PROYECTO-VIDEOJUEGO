@@ -22,7 +22,7 @@ El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-28%2012-52-33.png)
 
-![]()
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-28%2012-50-03.png)
 
 Hubo problemas para ejecutarlo. Para ejecutarlo tuve que hacer:
 
