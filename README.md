@@ -28,4 +28,8 @@ SOLDADURA-Y-DISENO
 qwegt
 
 
-# 
+# [FICHA TÉCNICA](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/FICHA%20T%C3%89CNICA.md)
+
+# [DOCUMENTACIÓN DE PROCESO]()
+
+# [DOCUMENTOS FINALES]()
