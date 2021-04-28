@@ -20,7 +20,7 @@ El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un
 
 - He dado a la tecla inicio y escribo terminal. También es posible pulsando Ctrl + Alt + T.
 
-//FIN
+//FIN  ERROR:NO ENCUENTRA EL SONIDO
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-28%2012-58-19.png)
 
 //INTERMEDIO
