@@ -30,6 +30,6 @@ qwegt
 
 # [FICHA TÉCNICA](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/FICHA%20T%C3%89CNICA.md)
 
-# [DOCUMENTACIÓN DE PROCESO]()
+# [DOCUMENTACIÓN DE PROCESO](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTACI%C3%93N%20DE%20PROCESO.md)
 
 # [DOCUMENTOS FINALES](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTOS%20FINALES.md)
