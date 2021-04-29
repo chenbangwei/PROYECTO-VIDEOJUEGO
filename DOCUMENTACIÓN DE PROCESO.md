@@ -31,11 +31,13 @@ El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un
 
 Hubo problemas para ejecutarlo. Para ejecutarlo tuve que hacer:
 
--
 
 -primero hemos comprobado con el terminal si estaba descargado 
 
 -pip(instalar biblioteca de conocimiento python)
+
+-
+
 
 -https://www.pygame.org/wiki/tutorialsç
 
@@ -67,7 +69,7 @@ como es python i que es lo que hace
  
  le he dado a un tutorial cualquiera ,i le he dado Try it Yourself. me ha aparecido 
  
-consejo:el print se necesita espacio para que te lo pueda leer el python
+consejo:el print se necesita espacio para que te lo pueda leer el python i el error de que te da cunado pasas mas de sobre que has marcado 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2012-50-50.png)
 
 qwer
