@@ -68,7 +68,7 @@ como es python i que es lo que hace
  le he dado a un tutorial cualquiera ,i le he dado Try it Yourself. me ha aparecido 
  
 consejo:el print se necesita espacio para que te lo pueda leer el python
-![]()
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2012-50-50.png)
 
 qwer
 wqe
