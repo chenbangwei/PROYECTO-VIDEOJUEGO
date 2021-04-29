@@ -77,10 +77,10 @@ consejo:el print se necesita espacio para que te lo pueda leer el python i el er
 Lo pegado el codigo 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-29-26.png)
 
+Lo he guardado en el archivo que he creado python
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-34-22.png)
 
-![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-29-26.png)
-
-
+He abierto teminal ,puse python para que se abriera i poner el archivo
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-36-05.png)
 
 Objetivo 1:
@@ -94,7 +94,7 @@ Conseguir hacer funcionar un juego de python (descargado)
 (pygame)
 
 Objetivo 3:
-
+https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-34-22.png
 Hacer que el arduino juegue al juego en cuestión. 
 
 
@@ -103,4 +103,4 @@ Hacer que el arduino juegue al juego en cuestión.
 
 # [DOCUMENTACIÓN DE PROCESO](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTACI%C3%93N%20DE%20PROCESO.md)
 
-# [DOCUMENTOS FINALES](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTOS%20FINALES.md)
+# [DOCUMENTOS FINALES](https://github.com/chttps://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-34-22.pnghenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTOS%20FINALES.md)
