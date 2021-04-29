@@ -45,6 +45,53 @@ Hubo problemas para ejecutarlo. Para ejecutarlo tuve que hacer:
 
 -https://www.packtpub.com/product/learning-python-application-development/9781785889196
 
+-https://www.youtube.com/watch?v=gOR9qZ3ZgwA
+
+Día 29 de abril
+
+* Hoy he estado viendo videos: 
+
+como es python i que es lo que hace
+
+* Este es el canal
+
+ Victor Robles WEB
+
+* Luego he probado a tener mis primeros archivos de python 
+
+ Que es con el Editor de texto,que he pasado de texto a python(prueba.py)
+
+* Para hacerlo he hecho esto
+
+ Para hacerlo he entrado en el siguiente enlace: https://www.w3schools.com/python/python_sets.asp 
+ 
+ le he dado a un tutorial cualquiera ,i le he dado Try it Yourself. me ha aparecido 
+ 
+consejo:el print se necesita espacio para que te lo pueda leer el python
+![]()
+
+qwer
+wqe
+qwerqw
+egq
+gr
+qrg
+qweg
+
+Objetivo 1:
+
+Conseguir hacer que funcion py.serial (librería) que lee y escribe a través del USB.
+Hacer que el arduino interactúe con un programa de python
+
+Objetivo 2:
+
+Conseguir hacer funcionar un juego de python (descargado)
+(pygame)
+
+Objetivo 3:
+
+Hacer que el arduino juegue al juego en cuestión. 
+
 
 
 # [FICHA TÉCNICA](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/FICHA%20T%C3%89CNICA.md)
