@@ -57,7 +57,7 @@ como es python i que es lo que hace
 
 * Este es el canal
 
- Victor Robles WEB
+ Victor Robles WEB https://www.youtube.com/watch?v=gOR9qZ3ZgwA
 
 * Luego he probado a tener mis primeros archivos de python 
 
@@ -69,16 +69,19 @@ como es python i que es lo que hace
  
  le he dado a un tutorial cualquiera ,i le he dado Try it Yourself. me ha aparecido 
  
+ https://www.w3schools.com/python/trypython.asp?filename=demo_default
+ 
 consejo:el print se necesita espacio para que te lo pueda leer el python i el error de que te da cunado pasas mas de sobre que has marcado 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2012-50-50.png)
 
-qwer
-wqe
-qwerqw
-egq
-gr
-qrg
-qweg
+Lo pegado el codigo 
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-29-26.png)
+
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-29-26.png)
+
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-36-05.png)
 
 Objetivo 1:
 
