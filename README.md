@@ -31,9 +31,13 @@ El juego lo haré en Python. Primero tengo que familiarizarme y he descargado un
 
 Hubo problemas para ejecutarlo. Para ejecutarlo tuve que hacer:
 
+-
+
 -primero hemos comprobado con el terminal si estaba descargado 
 
 -pip(instalar biblioteca de conocimiento python)
+
+-https://www.pygame.org/wiki/tutorialsç
 
 
 
