@@ -83,6 +83,18 @@ Lo he guardado en el archivo que he creado python
 He abierto teminal ,puse python para que se abriera i poner el archivo
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-36-05.png)
 
+## CAJA 
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2010-42-50.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-15-50.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-12.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-36.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-56.png)
+
 Objetivo 1:
 
 Conseguir hacer que funcion py.serial (librería) que lee y escribe a través del USB.
