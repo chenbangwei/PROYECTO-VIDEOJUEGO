@@ -90,18 +90,23 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2010-42-50.png)
 
 // Lo he descargado en svg 
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-55-06.png)
 
 // Lo importe en svg para poder editar-lo
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-15-50.png)
 
 // Fui a transformar i le di a escala (60 altura,131 ancho)
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-12.png)
 
 // Los unir en medio 
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-36.png)
 
 // Trayectoria i intersección
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-56.png)
 
 Objetivo 1:
