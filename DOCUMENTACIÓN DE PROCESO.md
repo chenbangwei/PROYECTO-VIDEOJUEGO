@@ -117,6 +117,8 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2002.svg)
 
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2002.svg)
+
 Objetivo 1:
 
 Conseguir hacer que funcion py.serial (librería) que lee y escribe a través del USB.
