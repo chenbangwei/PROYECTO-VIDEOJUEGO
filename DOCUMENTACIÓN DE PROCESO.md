@@ -110,6 +110,7 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-56.png)
 
 // 
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2001.pdf)
 
 Objetivo 1:
