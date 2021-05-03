@@ -111,7 +111,7 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 // 
 
-![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2001.pdf)
+[](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2001.pdf)
 
 Objetivo 1:
 
