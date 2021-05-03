@@ -129,4 +129,4 @@ Hacer que el arduino juegue al juego en cuestión.
 
 # [DOCUMENTACIÓN DE PROCESO](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTACI%C3%93N%20DE%20PROCESO.md)
 
-# [DOCUMENTOS FINALES](https://github.com/chttps://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-29%2013-34-22.pnghenbangwei/PROYECTO-VIDEOJUEGO/blob/main/DOCUMENTOS%20FINALES.md)
+# [DOCUMENTOS FINALES](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO#documentos-finales)
