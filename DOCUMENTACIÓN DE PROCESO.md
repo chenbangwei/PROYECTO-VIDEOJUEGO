@@ -109,6 +109,8 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-04-30%2012-16-56.png)
 
+// 
+
 Objetivo 1:
 
 Conseguir hacer que funcion py.serial (librería) que lee y escribe a través del USB.
