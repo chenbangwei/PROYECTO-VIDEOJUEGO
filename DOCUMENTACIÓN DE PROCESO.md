@@ -117,6 +117,10 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2002.svg)
 
+//error tonta de copiar el right a todos los lados ,ahora lo he corregido con dos back
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/bangwei1.svg)
+
 
 Objetivo 1:
 
