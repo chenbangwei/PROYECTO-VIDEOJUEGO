@@ -127,6 +127,16 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2009-36-12.png)
 
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-13-48.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-08.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-24.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-40.png)
+
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-15-00.png)
+
 Objetivo 1:
 
 Conseguir hacer que funcion py.serial (librería) que lee y escribe a través del USB.
