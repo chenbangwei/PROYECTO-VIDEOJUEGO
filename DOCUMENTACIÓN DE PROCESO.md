@@ -117,7 +117,7 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/prueba%20de%20impresion%2002.svg)
 
-//error tonta de copiar el right a todos los lados ,ahora lo he corregido con dos back
+//error tonto de copiar el right a todos los lados ,ahora lo he corregido con dos back
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/bangwei1.svg)
 
@@ -125,9 +125,15 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-11-27.png)
 
+// con sensor de sonido
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2009-36-12.png)
 
+// Programa con python 
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-13-48.png)
+
+// 
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-08.png)
 
