@@ -121,6 +121,8 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/bangwei1.svg)
 
+![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/vans.svg)
+
 // Explicacion de david del juego de su compañera (creadora de flappy con detector de acercamiento con el programa de python)
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-11-27.png)
