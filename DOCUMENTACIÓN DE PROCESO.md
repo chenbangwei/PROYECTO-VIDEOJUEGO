@@ -133,11 +133,15 @@ He abierto teminal ,puse python para que se abriera i poner el archivo
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-13-48.png)
 
-// 
+// Esta es la imagen con los codigos de la librería.
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-08.png)
 
+// Esta imagen lee el personaje sin ejecutarlo y te dice las direcciones X,Y.
+
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-24.png)
+
+// Esta imagen te dice los movimientos de salto del personaje etc...
 
 ![](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO/blob/main/Captura%20de%20pantalla%20de%202021-05-05%2010-14-40.png)
 
